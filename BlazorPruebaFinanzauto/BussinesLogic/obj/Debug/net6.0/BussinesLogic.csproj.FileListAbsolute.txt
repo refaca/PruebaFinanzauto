@@ -1,0 +1,12 @@
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.AssemblyReference.cache
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.AssemblyInfoInputs.cache
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.AssemblyInfo.cs
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.csproj.CoreCompileInputs.cache
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\bin\Debug\net6.0\BussinesLogic.deps.json
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\bin\Debug\net6.0\BussinesLogic.dll
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\bin\Debug\net6.0\BussinesLogic.pdb
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.dll
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\refint\BussinesLogic.dll
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\BussinesLogic.pdb
+C:\Users\desar\source\repos\BlazorPruebaFinanzauto\BussinesLogic\obj\Debug\net6.0\ref\BussinesLogic.dll

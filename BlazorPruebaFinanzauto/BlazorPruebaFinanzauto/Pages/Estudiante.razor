@@ -1,0 +1,49 @@
+﻿@page "/estudiante"
+@inject BussinesLogic.ConexionesApi.EstudianteService estudiantesService;
+
+
+<PageTitle>Estudiante</PageTitle>
+
+<h1>Estudiantes</h1>
+
+<form>
+    <div class="form-group">
+        <label for="name">Nombre:</label>
+        <input class="form-control" @bind="@estudiante.Name" id="name" placeholder="Nombre" />
+    </div>
+    <div class="form-group">
+        <label for="lastName">Apellido:</label>
+        <input class="form-control" @bind="@estudiante.LastName" id="lastName" placeholder="Apellido" />
+    </div>
+    <div class="form-group">
+        <label for="address">Dirección:</label>
+        <input class="form-control" @bind="@estudiante.Address" id="address" placeholder="Dirección" />
+    </div>
+    <div class="form-group">
+        <label for="celphone">Teléfono:</label>
+        <input class="form-control" @bind="@estudiante.Celphone" id="celphone" placeholder="Teléfono" />
+    </div>
+    <div class="form-group">
+        <label for="email">Email:</label>
+        <input class="form-control" @bind="@estudiante.Email" id="email" placeholder="Email" />
+    </div>
+    <div class="form-group">
+        <label for="description">Descripción:</label>
+        <textarea class="form-control" @bind="@estudiante.Description" id="description" placeholder="Descripción"></textarea>
+    </div>
+    <button class="btn btn-primary" @onclick="CrearEstudiante">Guardar</button>
+</form>
+
+@code {
+
+    private BussinesLogic.Entidades.Estudiantes estudiante = new BussinesLogic.Entidades.Estudiantes();
+    
+       
+
+    private async Task CrearEstudiante()
+    {
+        var result = await estudiantesService.AddEstudiante(estudiante);       
+    }
+
+   
+}

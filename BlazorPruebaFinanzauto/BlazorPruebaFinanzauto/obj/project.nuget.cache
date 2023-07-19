@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/iY0VEHyGzXodvLyji9coxQNhyePDjCDLjrEQiB96asisiKumsmP/+CDn5hSksj3fX7z2UyZ/Kwnwr3fB3I19A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desar\\source\\repos\\BlazorPruebaFinanzauto\\BlazorPruebaFinanzauto\\BlazorPruebaFinanzauto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\desar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
